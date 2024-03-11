@@ -1,0 +1,63 @@
+body{
+    color: rgb(0, 0, 0);
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', ;
+}
+
+header{
+    background-image: url(https://i.gifer.com/GKTi.gif);
+    display: flex;
+    height: 25vmin;
+}
+
+#name{
+    width: 33%;
+}
+
+#name-text{
+    margin-left: 2vmin;
+    color: white;
+}
+
+#page-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 33%;
+    text-align: center;
+    font-size: 15pt;
+}
+
+#menu{
+    height: 8vmin;
+    display: flex;
+    width: 33%;
+    justify-content: right;
+    align-items: center;
+    color: white;
+
+}
+
+#menu2{
+    height: 8vmin;
+    display: flex;
+    width: 33%;
+    justify-content: right;
+    align-items: center;
+    color: white;
+
+}
+
+.content{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    margin-top: 3vmin;
+    margin-right: 3vmin;
+}
